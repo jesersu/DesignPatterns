@@ -1,4 +1,4 @@
-package AbstractFactory.ConcreteLinux;
+package AbstractFactory.ConcreteProduct.ConcreteLinux;
 
 import AbstractFactory.Product.CheckBox;
 

@@ -1,8 +1,8 @@
 package AbstractFactory.ConcreteFactory;
 
 import AbstractFactory.AbstractFactory.GUIFactory;
-import AbstractFactory.ConcreteProductMac.MacOSButton;
-import AbstractFactory.ConcreteProductMac.MacOSCheckbox;
+import AbstractFactory.ConcreteProduct.ConcreteProductMac.MacOSButton;
+import AbstractFactory.ConcreteProduct.ConcreteProductMac.MacOSCheckbox;
 import AbstractFactory.Product.Button;
 import AbstractFactory.Product.CheckBox;
 

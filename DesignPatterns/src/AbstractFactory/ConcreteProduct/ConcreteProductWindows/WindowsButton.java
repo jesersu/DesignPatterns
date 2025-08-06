@@ -1,4 +1,4 @@
-package AbstractFactory.ConcreteProductWindows;
+package AbstractFactory.ConcreteProduct.ConcreteProductWindows;
 
 import AbstractFactory.Product.Button;
 

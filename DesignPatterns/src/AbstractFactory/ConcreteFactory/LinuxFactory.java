@@ -1,8 +1,8 @@
 package AbstractFactory.ConcreteFactory;
 
 import AbstractFactory.AbstractFactory.GUIFactory;
-import AbstractFactory.ConcreteLinux.LinuxButton;
-import AbstractFactory.ConcreteLinux.LinuxCheckbox;
+import AbstractFactory.ConcreteProduct.ConcreteLinux.LinuxButton;
+import AbstractFactory.ConcreteProduct.ConcreteLinux.LinuxCheckbox;
 import AbstractFactory.Product.Button;
 import AbstractFactory.Product.CheckBox;
 

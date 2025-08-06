@@ -1,4 +1,4 @@
-package AbstractFactory.ConcreteProductMac;
+package AbstractFactory.ConcreteProduct.ConcreteProductMac;
 import AbstractFactory.Product.Button;
 public class MacOSButton implements Button {
     @Override

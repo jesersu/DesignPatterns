@@ -1,8 +1,8 @@
 package AbstractFactory.ConcreteFactory;
 
 import AbstractFactory.AbstractFactory.GUIFactory;
-import AbstractFactory.ConcreteProductWindows.WindowsButton;
-import AbstractFactory.ConcreteProductWindows.WindowsCheckbox;
+import AbstractFactory.ConcreteProduct.ConcreteProductWindows.WindowsButton;
+import AbstractFactory.ConcreteProduct.ConcreteProductWindows.WindowsCheckbox;
 import AbstractFactory.Product.Button;
 import AbstractFactory.Product.CheckBox;
 
